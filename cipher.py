@@ -16,4 +16,4 @@ plain_text = input("Please enter a sentence:")
 encrypted_text = caesar_cipher(plain_text)
 
 # Print the encrypted text
-print(f"The encrypted sentence is: {encrypted_text}")
+print(f"The encrypted sentence is: {encrypted_text}") 
